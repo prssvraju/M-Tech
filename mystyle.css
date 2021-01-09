@@ -1,0 +1,21 @@
+h1
+{
+    color:red;
+    border-style: solid;
+    
+}
+.test
+{
+
+    color:blue;
+    padding: 50px;
+    margin: 50px;
+    border-style: dotted;
+
+}
+
+.simple
+{
+    color:red;
+    background-color: blue;
+}
